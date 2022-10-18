@@ -1,0 +1,51 @@
+[
+    {
+        "title":"Button Status",
+        "link":"pages/general/button",
+        "text":"It is possible to set button color whith status attribute. Default value is basic."
+    },   
+    {
+        "title":"Card Size",
+        "link":"pages/general/card",
+        "text":"Card can have different sizes, it's possible to set its size using size attribute. The available size are: SMALL , MEDIUM , LARGE and EXTRA_LARGE ."
+    },
+    {
+        "title":"Accordion Multi",
+        "link":"pages/general/accordion",
+        "text":"The multi attribute allows to show more than one card at the same time."
+    },
+    {
+        "title":"Spinner Diameter",
+        "link":"pages/general/spinner",
+        "text":"It's possible to add diameter attribute inside the component to set the spinner dimensions. Default diameter is 50."
+    },
+    {
+        "title":"Stepper Linear",
+        "link":"pages/forms/stepper",
+        "text":"The linear attribute only permits sequential navigation.For example it's not possible to go to step three without pass trough step two."
+    },
+    {
+        "title":"Tooltip Position",
+        "link":"pages/overlays/tooltip",
+        "text":"It is possible set tooltip position whith bzTooltipPosition attribute. (Default value of position is top)"
+    },
+    {
+        "title":"Toastr Position",
+        "link":"/pages/overlays/toastr",
+        "text":"sets toast position on screen."
+    },
+    {
+        "title":"Dialog Result",
+        "link":"pages/overlays/dialog",
+        "text":"Subscribing to BzDialogService.showDialog(message) it is possible to recive the result when the dialog is closed"
+    },
+    {
+        "title":"Multiple Dropdown",
+        "link":"/pages/forms/dropdown",
+        "text":"It can be used as multi-dropdown if you add multi attribute to component. In this case, it propagates arrays."
+    }, {
+        "title":"Checkbox Status",
+        "link":"pages/forms/checkbox",
+        "text":"It is possible to set checkbox border color whith status attribute. Default value is basic."
+    }
+]
