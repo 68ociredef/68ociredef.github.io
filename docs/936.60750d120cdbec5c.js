@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfascinating_doc=self.webpackChunkfascinating_doc||[]).push([[936],{2936:n=>{n.exports=JSON.parse('{"fascinating2":{"fan":{"yes":"<strong> Sono <strong> un fan {{0}} FascinatiNG"}}}')}}]);

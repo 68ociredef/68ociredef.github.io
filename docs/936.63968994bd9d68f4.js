@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkSampleProject=self.webpackChunkSampleProject||[]).push([[936],{2936:e=>{e.exports=JSON.parse('{"fascinating2":{"fan":{"yes":"<strong> Sono <strong> un fan {{0}} FascinatiNG"}}}')}}]);

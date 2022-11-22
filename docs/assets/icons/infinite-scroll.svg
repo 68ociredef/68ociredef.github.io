@@ -1,0 +1,17 @@
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <defs>
+
+        <symbol id="infinite-scroll">
+            <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)">
+                <path d="M1836 4155 l-556 -635 1120 0 1120 0 -556 635 c-305 349 -559 635
+-564 635 -5 0 -259 -286 -564 -635z" />
+                <path d="M2281 2864 c-253 -68 -410 -331 -346 -579 63 -239 296 -395 535 -358
+260 41 442 286 403 543 -43 279 -324 466 -592 394z" />
+                <path d="M1836 645 c305 -349 559 -635 563 -635 8 0 1103 1245 1109 1262 2 4
+-499 8 -1112 8 l-1116 0 556 -635z" />
+            </g>
+        </symbol>
+
+    </defs>
+</svg>

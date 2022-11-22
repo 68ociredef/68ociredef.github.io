@@ -1,0 +1,10 @@
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <defs>
+
+    <symbol id="cross">
+      <path d="M198 3002 l-172 -173 614 -614 615 -615 -614 -614 -613 -613 173 -172 172 -173 614 614 613 613 615 -615 614 -614 173 172 172 173 -614 614 -615 615 614 614 614 614 -173 172 -172 173 -614 -614 -614 -614 -615 615 -614 614 -173 -172z" />
+    </symbol>
+
+  </defs>
+</svg>
