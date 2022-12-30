@@ -19,8 +19,8 @@ MIT
 fascinating
 MIT
 
-fontawesome-4.7
-ISC
+font-awesome
+(OFL-1.1 AND MIT)
 
 rxjs
 Apache-2.0
